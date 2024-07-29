@@ -30,6 +30,8 @@
   <li><a href="#contact">Contact</a></li>
 </ul>
 
+[<img scr="./Animação.gif" alt="git do arquivo do readme">]
+
 <h2 id="installation">Installation</h2>
 <p>Instructions on how to install and setup the project. You can include the code commands here:</p>
 <pre><code>
