@@ -6,6 +6,18 @@
 <title>README</title>
 </head>
 <body>
+
+/*Descrição das seções:
+
+    Project Title: O título do seu projeto.
+    Descrição: Uma breve descrição do que o projeto faz e para quem ele é.
+    Table of Contents: Índice para facilitar a navegação pelo arquivo README.
+    Installation: Instruções sobre como instalar e configurar o projeto.
+    Usage: Exemplos de como usar o projeto, incluindo comandos e capturas de tela.
+    Contributing: Diretrizes para contribuir com o projeto.
+    License: Informações sobre a licença do projeto.
+    Contact: Informações de contato e link para o repositório.*/
+
 <h1>Project Title</h1>
 
 <p>A brief description of what this project does and who it's for</p>
@@ -45,3 +57,4 @@ npm start
 <p>Project Link: <a href="https://github.com/yourusername/your-repo-name">https://github.com/yourusername/your-repo-name</a></p>
 </body>
 </html>
+
