@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>README</title>
 </head>
 <body>
 
@@ -18,7 +17,7 @@
     License: Informações sobre a licença do projeto.
     Contact: Informações de contato e link para o repositório.*/
 
-#Project Title<
+<h1>Project Title</h1>
 
 <p>A brief description of what this project does and who it's for</p>
 
